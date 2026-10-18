@@ -73,11 +73,11 @@
     "@types/node": "^18",
     "@types/react": "^18",
     "@vitejs/plugin-react": "^4.3.4",
-    "@vitest/ui": "^2",
+    "@vitest/ui": "^5",
     "autoprefixer": "^10.4.20",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "esbuild": "^0.24",
+    "esbuild": "^0.28",
     "eslint": "^9.17.0",
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.1.0",
@@ -88,13 +88,13 @@
     "minisearch": "7.2.0",
     "postcss": "^8.4.49",
     "prettier": "^3.8.1",
-    "react-router-dom": "^6.28.0",
+    "react-router-dom": "^7.18.4",
     "tailwind-merge": "^2.6.1",
-    "tailwindcss": "^3.4.17",
+    "tailwindcss": "^4.3.3",
     "tailwindcss-animate": "^1.0.7",
     "tsx": "^4",
     "typescript": "^5",
-    "vite": "^5.4.11",
-    "vitest": "^2"
+    "vite": "^8.3.4",
+    "vitest": "^5"
   }
 }
